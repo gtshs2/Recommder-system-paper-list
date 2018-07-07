@@ -2,5 +2,5 @@
 
 Year | Venue | Title | NOTE
 ------------ | ------------- |------------- |-------------
-Content from cell 1 | Content from cell 2 | |
-Content in the first column | Content in the second column | |
+IRGAN: A Minimax Game for Unifying Generative and
+Discriminative Information Retrieval Models | SIGIR | 2017 |
